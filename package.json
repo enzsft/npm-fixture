@@ -1,6 +1,6 @@
 {
   "name": "@enzsft/npm-fixture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fixture NPM package for @enzsft/mono to use in tests.",
   "license": "MIT",
   "repository": {
