@@ -1,0 +1,11 @@
+{
+  "name": "@enzsft/npm-fixture",
+  "version": "1.0.0",
+  "description": "Fixture NPM package for @enzsft/mono to use in tests.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enzsft/npm-fixture"
+  },
+  "author": "Enzyme Software"
+}
